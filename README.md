@@ -1,2 +1,3 @@
-# pluralsight-job_board_with_python_and_flask
-Plural sightJob Board with Python &amp; Flask 
+# Pluralsight: Job Board with Python and Flask 
+
+https://app.pluralsight.com/projects/build-a-job-board-with-python-flask
